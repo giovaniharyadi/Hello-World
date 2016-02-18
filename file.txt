@@ -1,2 +1,5 @@
 add new file again
+<<<<<<< HEAD
 add new line
+=======
+>>>>>>> 6ddea38cf34d2cb7ad5081ff803eec682e1a1b37
