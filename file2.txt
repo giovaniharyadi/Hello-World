@@ -1,2 +1,6 @@
 file2
+<<<<<<< HEAD
 add line on master branch
+=======
+add line on testing branch
+>>>>>>> testing
